@@ -11,13 +11,13 @@ int num = Convert.ToInt32(snum);
 if (num % 2 == 0)
 {
     Console.Write("Число четное.");
-    //Console.Write($" max ={num1} ");
+  
    
 }
 else
 {
     Console.Write("Число нечетное.");
-    //Console.Write($" max ={num2} ");
+   
 }
     
 
